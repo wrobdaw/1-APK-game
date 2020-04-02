@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<widget xmlns   = "http://www.w3.org/ns/widgets"
+    xmlns:gap   = "http://phonegap.com/ns/1.0"
+    id          = "wrobdaw test1"
+    versionCode = "10"
+    version     = "1.0.0" >
+
+<!-- versionCode is optional and Android only -->
+
+  <name>Pierwsza gra</name>
+
+  <description>
+      test 1
+  </description>
+
+  <author href="https://wrobdaw.com" email="wrobdaw@gmail.com">
+      wrobdaw
+  </author>
+<icon scr="icon.png" />
+
+</widget>
